@@ -1,4 +1,4 @@
-"""Application configuration.
+﻿"""Application configuration.
 
 Everything is overridable through environment variables so the same code runs
 on SQLite (development, single file) and PostgreSQL (production, millions of
@@ -44,7 +44,7 @@ DEFAULT_PAGE_SIZE = 25
 # First-run administrator. The password must be changed after the first login.
 DEFAULT_ADMIN_EMAIL = os.getenv("DEFAULT_ADMIN_EMAIL", "admin@smartcampus.local")
 DEFAULT_ADMIN_USERNAME = os.getenv("DEFAULT_ADMIN_USERNAME", "admin")
-DEFAULT_ADMIN_PASSWORD = os.getenv("DEFAULT_ADMIN_PASSWORD", "Admin@12345")
+DEFAULT_ADMIN_PASSWORD = os.getenv("DEFAULT_ADMIN_PASSWORD", "")
 BCRYPT_ROUNDS = int(os.getenv("BCRYPT_ROUNDS", "12"))
 
 # When the app is embedded in a preview iframe (service preview cards), framing
