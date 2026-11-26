@@ -1,0 +1,35 @@
+﻿# Secrets
+.env
+
+# Build output
+dist/
+build/
+dist_test/
+*.spec
+
+# Python env and cache
+python/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Database and backups
+*.db
+*.sqlite3
+backups/
+*.bak
+*.bak2
+*.bak3
+*.bak*
+
+# Node
+node_modules/
+
+# Extra build, installer aur backup files
+build_test/
+installer_output/
+*.zip
+*.db-shm
+*.db-wal
+*.spec.backup*

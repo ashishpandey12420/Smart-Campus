@@ -1,0 +1,39 @@
+SMART CAMPUS - APP (Windows) - PEHLE YE PADHO
+============================================
+
+Kuch install karne ki zarurat NAHI. Python, Node, pip - kuch nahi chahiye.
+Sab is folder ke andar hi hai.
+
+3 STEP
+------
+1. "START SMART CAMPUS.bat" par DOUBLE-CLICK karo.
+2. Ek black window khulegi aur 3-5 second me browser me app khul jayegi:
+   http://127.0.0.1:8080
+3. Login karo:
+      Username: admin
+      Password: Admin@12345
+   Login ke baad Settings me jaakar apna naya password bana lo.
+
+USKE BAAD
+---------
+- Black window ko band mat karo - wahi app chala rahi hai.
+- Band karna ho to us window me Ctrl+C dabao.
+- Browser na khule to address bar me http://127.0.0.1:8080 type karo.
+- Port busy ho to app khud agla port (8081) le legi - black window me URL likha hoga.
+
+Aapka data kahan hai?
+---------------------
+Isi folder ke andar: backend\smartcampus.db
+Ye file delete karne par sab data chala jayega. Isliye Settings > Back up now
+se backup lete raho (backups folder me save hota hai).
+
+Pehli baar app khali khulegi (koi student nahi). Departments banao, phir
+Courses, phir Students. Bulk students ke liye: Students > Import > Template.
+
+Demo data chahiye?
+------------------
+Black window band karo, phir "DEMO DATA BHARO.bat" par double-click karo.
+2-3 second me 2000 students, 60 faculty aur 24 din ki attendance bhar jayegi.
+Uske baad wapas START SMART CAMPUS.bat.
+
+Koi error aaye to us black window ka text bhej dena - main theek kar dunga.
