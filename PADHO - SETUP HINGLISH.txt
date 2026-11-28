@@ -1,4 +1,4 @@
-SMART CAMPUS - APP (Windows) - PEHLE YE PADHO
+﻿SMART CAMPUS - APP (Windows) - PEHLE YE PADHO
 ============================================
 
 Kuch install karne ki zarurat NAHI. Python, Node, pip - kuch nahi chahiye.
@@ -10,8 +10,8 @@ Sab is folder ke andar hi hai.
 2. Ek black window khulegi aur 3-5 second me browser me app khul jayegi:
    http://127.0.0.1:8080
 3. Login karo:
-      Username: admin
-      Password: Admin@12345
+      Username: ########
+      Password: ########
    Login ke baad Settings me jaakar apna naya password bana lo.
 
 USKE BAAD
@@ -37,3 +37,4 @@ Black window band karo, phir "DEMO DATA BHARO.bat" par double-click karo.
 Uske baad wapas START SMART CAMPUS.bat.
 
 Koi error aaye to us black window ka text bhej dena - main theek kar dunga.
+
