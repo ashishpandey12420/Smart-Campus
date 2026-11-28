@@ -1,4 +1,4 @@
-﻿SMART CAMPUS - APP (Windows) - PEHLE YE PADHO
+SMART CAMPUS - APP (Windows) - PEHLE YE PADHO
 ============================================
 
 Kuch install karne ki zarurat NAHI. Python, Node, pip - kuch nahi chahiye.
