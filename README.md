@@ -50,7 +50,7 @@ The app opens at **http://127.0.0.1:8000** (API docs at `/api/docs`).
 
 | Username | Password |
 | --- | --- |
-| `admin` | `********` |
+| `********` | `********` |
 
 (or `admin@smartcampus.local`). You are asked to change this password — do it before
 letting anyone else in, and set `DEFAULT_ADMIN_PASSWORD` / `SECRET_KEY` for real deployments.
